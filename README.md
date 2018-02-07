@@ -1,2 +1,2 @@
 # VSCodeTrain
-用VScode练习编程语言（Java/Python/NodeJS）
+用VScode练习编程语言（Java/NodeJS/Python）
