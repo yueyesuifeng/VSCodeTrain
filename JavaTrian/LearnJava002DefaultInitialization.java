@@ -8,6 +8,6 @@ public class LearnJava002DefaultInitialization {
     }
 
     public static void main(String[] args) {
-        new LearnJava002DefaultInitialization();
+        new LearnJava002DefaultInitialization(); 
     }
 }
