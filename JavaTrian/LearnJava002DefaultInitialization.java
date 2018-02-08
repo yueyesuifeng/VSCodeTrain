@@ -6,6 +6,7 @@ public class LearnJava002DefaultInitialization {
         System.out.println("i=" + i);
         System.out.println("c=[" + c + "]");
     }
+    
             public static void main(String[] args) {
         new LearnJava002DefaultInitialization(); 
     }
