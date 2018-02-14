@@ -1,5 +1,6 @@
 /**
  * create a class containing a float and use it to demonstrate aliasing
+ * 将一个对象赋值给另一个对象，实际上是将“引用”从一个地方复制到另一地方
 */
 class LearnJava012Integral {
     float f;
