@@ -1,3 +1,6 @@
+/**
+ * 有符号右移
+*/
 public class LearnJava021SignedRightShift {
     public static void main(String[] args) {
       int i = 0x80000000;
@@ -32,6 +35,7 @@ public class LearnJava021SignedRightShift {
       i >>= 1;  System.out.println(Integer.toBinaryString(i));
       i >>= 1;  System.out.println(Integer.toBinaryString(i));
       i >>= 1;  System.out.println(Integer.toBinaryString(i));
-      i >>= 1;  System.out.println(Integer.toBinaryString(i));
+      i >>= 1;  System.out.println(Integer.toBinaryString(i));//-1
+      System.out.println(i);      
     }
   } 
