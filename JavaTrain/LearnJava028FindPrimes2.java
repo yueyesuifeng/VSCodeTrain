@@ -1,4 +1,3 @@
-package learn.thinkinjava;
 /**
  * 找max以下的质数的快速方法
  * 你仅仅只需要测试奇数，因为2是唯一的偶数质数
